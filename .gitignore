@@ -1,0 +1,18 @@
+# Sanal ortam
+venv/
+.venv/
+env/
+
+# Python önbelleği
+__pycache__/
+*.py[cod]
+
+# Çalışma sırasında üretilen loglar
+logs/
+
+# macOS
+.DS_Store
+
+# Editör ayarları
+.vscode/
+.idea/
